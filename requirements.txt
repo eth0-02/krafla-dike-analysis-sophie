@@ -1,0 +1,7 @@
+# Runtime dependencies for the Krafla data workflow.
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.7
+
+# Test dependency. Installed by the Windows launcher so tests are ready to run.
+pytest>=8.0
